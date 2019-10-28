@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+div .container {
+  width: 100vw;
+  height: 100vh;
+}
+
+img {
+  height: 100%;
+  width: 100%;
+}
